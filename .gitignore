@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+## Tableau
+
+hyper_db
+your_data.hyper
+
+tableausdk/bin/
